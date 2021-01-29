@@ -4,5 +4,6 @@ public interface UserService {
  void fun();
  void fun2();
  void fun3();
+ void funquick();
  
 }
